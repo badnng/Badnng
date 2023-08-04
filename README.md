@@ -14,4 +14,4 @@
 
 [![Automatic_flashing_the_Magisk_Delta](https://github-readme-stats.vercel.app/api/pin/?username=badnng&repo=Automatic_flashing_the_Magisk_Delta)](https://github.com/badnng/Automatic_flashing_the_Magisk_Delta)
 
-- 灵感来自:![Miaoyww](https://github.com/Miaoyww)
+- 灵感来自:[Miaoyww](https://github.com/Miaoyww)
