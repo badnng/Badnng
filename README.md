@@ -1,16 +1,17 @@
-### Hi there 👋
+# Badnng
 
-<!--
-**badnng/Badnng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 亻尔女子,我是badnng
 
-Here are some ideas to get you started:
+<div style="display:flex;align-self: center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Badnng's Github Stats](https://github-readme-stats.vercel.app/api?username=badnng&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badnng&layout=compact&hide=html,CSS,javascript)
+
+</div>
+
+# 我现在在维护的repo
+
+[![Automatic_flashing_the_Magisk_Delta](https://github-readme-stats.vercel.app/api/pin/?username=badnng&repo=Automatic_flashing_the_Magisk_Delta)](https://github.com/badnng/Automatic_flashing_the_Magisk_Delta)
+
+- 灵感来自:![@Miaoyww](https://github.com/Miaoyww)
