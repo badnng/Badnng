@@ -1,17 +1,11 @@
-# Badnng
-
-- 亻尔女子,我是badnng
-
 <div style="display:flex;align-self: center">
-
-![Badnng's Github Stats](https://github-readme-stats.vercel.app/api?username=badnng&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badnng&layout=compact&hide=html,CSS,javascript)
+  
+[![Tokens Stats](https://tokens.ci/api/embed/badnng/svg?template=detailed&rank=percent&tokens=compact&cost=compact)](https://tokens.ci/u/badnng)
 
 </div>
 
-# 我现在在维护的repo
+# Badnng
 
-[![Automatic_flashing_the_Magisk_Delta](https://github-readme-stats.vercel.app/api/pin/?username=badnng&repo=Automatic_flashing_the_Magisk_Delta)](https://github.com/badnng/Automatic_flashing_the_Magisk_Delta)
+- 亻尔女子,我是Badnng
 
-- 灵感来自:[Miaoyww](https://github.com/Miaoyww)
+时不时使用ai创作奇奇怪怪の东西
